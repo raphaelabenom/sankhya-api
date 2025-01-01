@@ -1,0 +1,4 @@
+  pendulum
+  pandas
+  python-dotenv
+  requests
